@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\carnita\desktop\cilindrul\main.cpp
+	<iostream>
+
+1576502907 source:c:\users\carnita\desktop\cilindrul\src\cerc.cpp
+	"cerc.h"
+
+1576502785 c:\users\carnita\desktop\cilindrul\include\cerc.h
+
