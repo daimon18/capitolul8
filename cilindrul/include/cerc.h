@@ -7,13 +7,13 @@ class cerc
     public:
         cerc(double InitRaza);
         double GetRaza();
+        double arie();
         virtual ~cerc();
 
     protected:
 
     private:
          double _raza;
-        double arie(double _raza);
 };
 
 #endif // CERC_H

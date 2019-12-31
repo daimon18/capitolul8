@@ -5,7 +5,9 @@
 class Cilindru
 {
     public:
-        Cilindru(double RazaBazei, double Inaltime);
+        Cilindru(double a, double b);
+        double Volum();
+        double Arie();
         virtual ~Cilindru();
 
     protected:

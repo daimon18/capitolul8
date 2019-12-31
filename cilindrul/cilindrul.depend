@@ -2,8 +2,15 @@
 1514140574 source:c:\users\carnita\desktop\cilindrul\main.cpp
 	<iostream>
 
-1576502907 source:c:\users\carnita\desktop\cilindrul\src\cerc.cpp
+1577792422 source:c:\users\carnita\desktop\cilindrul\src\cerc.cpp
 	"cerc.h"
 
-1576502785 c:\users\carnita\desktop\cilindrul\include\cerc.h
+1577792458 c:\users\carnita\desktop\cilindrul\include\cerc.h
+
+1577793263 source:c:\users\carnita\desktop\cilindrul\src\cilindru.cpp
+	"Cilindru.h"
+	"cerc.h"
+
+1577792933 c:\users\carnita\desktop\cilindrul\include\cilindru.h
+	"cerc.h"
 
