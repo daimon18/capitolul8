@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1577798234 source:c:\users\carnita\desktop\norma\main.cpp
+	<iostream>
+	"Clasa.h"
+	"NormaProf.h"
+
+1577795645 source:c:\users\carnita\desktop\norma\src\clasa.cpp
+	"Clasa.h"
+	<iostream>
+
+1577795638 c:\users\carnita\desktop\norma\include\clasa.h
+
+1577798791 source:c:\users\carnita\desktop\norma\src\normaprof.cpp
+	"NormaProf.h"
+	"Clasa.h"
+	<iostream>
+
+1577797285 c:\users\carnita\desktop\norma\include\normaprof.h
+	"Clasa.h"
+
