@@ -8,3 +8,35 @@
 
 1578854705 c:\users\carnita\desktop\rotile\include\janta.h
 
+1578868207 source:c:\users\carnita\desktop\github\capitolul8\rotile\main.cpp
+	<iostream>
+	<string>
+	"Masina.h"
+
+1578851915 source:c:\users\carnita\desktop\github\capitolul8\rotile\src\janta.cpp
+	"Janta.h"
+
+1578854705 c:\users\carnita\desktop\github\capitolul8\rotile\include\janta.h
+
+1578856597 source:c:\users\carnita\desktop\github\capitolul8\rotile\src\anvelopa.cpp
+	"Anvelopa.h"
+
+1578866798 c:\users\carnita\desktop\github\capitolul8\rotile\include\anvelopa.h
+	"Janta.h"
+	<string>
+	<iostream>
+
+1578867441 source:c:\users\carnita\desktop\github\capitolul8\rotile\src\roata.cpp
+	"Roata.h"
+
+1578867495 c:\users\carnita\desktop\github\capitolul8\rotile\include\roata.h
+	"Anvelopa.h"
+
+1578868147 source:c:\users\carnita\desktop\github\capitolul8\rotile\src\masina.cpp
+	"Masina.h"
+
+1578865263 c:\users\carnita\desktop\github\capitolul8\rotile\include\masina.h
+	"Roata.h"
+	<string>
+	<iostream>
+
