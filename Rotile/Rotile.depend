@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1578855003 source:c:\users\carnita\desktop\rotile\main.cpp
+	<iostream>
+	<string>
+
+1578851915 source:c:\users\carnita\desktop\rotile\src\janta.cpp
+	"Janta.h"
+
+1578854705 c:\users\carnita\desktop\rotile\include\janta.h
+
