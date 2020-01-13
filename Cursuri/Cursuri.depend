@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1578876926 source:c:\users\carnita\desktop\cursuri\main.cpp
+	<iostream>
+	"Persoana.h"
+	"Mentor.h"
+	"Cursant.h"
+
+1578871778 source:c:\users\carnita\desktop\cursuri\src\persoana.cpp
+	"Persoana.h"
+
+1578871778 c:\users\carnita\desktop\cursuri\include\persoana.h
+	<string>
+	<iostream>
+
+1578876981 source:c:\users\carnita\desktop\cursuri\src\cursant.cpp
+	"Cursant.h"
+
+1578874985 c:\users\carnita\desktop\cursuri\include\cursant.h
+	<Persoana.h>
+
+1578876220 source:c:\users\carnita\desktop\cursuri\src\mentor.cpp
+	"Mentor.h"
+
+1578872803 c:\users\carnita\desktop\cursuri\include\mentor.h
+	<iostream>
+	<Persoana.h>
+
